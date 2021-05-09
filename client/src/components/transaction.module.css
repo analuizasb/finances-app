@@ -1,0 +1,19 @@
+.transaction {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  margin: 15px;
+  align-items: center;
+  justify-content: space-between;
+  font-size: large;
+}
+
+.transactionleft {
+  justify-content: flex-start;
+  width: 200px;
+}
+
+.transactionright {
+  justify-content: flex-end;
+  width: 50px;
+}

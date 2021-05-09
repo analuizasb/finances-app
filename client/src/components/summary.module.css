@@ -1,0 +1,10 @@
+.summary {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  margin: 15px;
+  align-items: center;
+  justify-content: space-between;
+  font-size: large;
+  font-weight: bold;
+}
